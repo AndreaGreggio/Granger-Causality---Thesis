@@ -1,6 +1,8 @@
 # Granger-Causality---Thesis
 Repository for my master thesis "Granger Causality Analysis of the Interconnections between Equity Market and Cryptocurrencies"
+
 Abstract:
+
 The advent of cryptocurrencies has significantly reshaped the financial landscape by offering decentralized alternatives to traditional currencies. Bitcoin, the pioneering cryptocurrency, started a wave of innovation, leading to the creation of numerous other digital assets.
 During the past decade, the market capitalization of cryptocurrencies has increased, driven by both retail and institutional investors seeking diversification and high returns. As of 2024, the total market capitalization of cryptocurrencies exceeds $2 trillion, analyzing their growing influence in financial markets.
 This thesis investigates the causal relationships and dynamic interactions between equity markets and cryptocurrencies using advanced econometric models. Specifically, it examines whether there is a bidirectional causal relationship between major equity market indices and leading cryptocurrencies. The analysis employs Vector Autoregressive (VAR) models to capture linear interdependencies among multiple time series and Granger causality tests to explore predictive relationships.
